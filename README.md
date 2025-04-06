@@ -20,10 +20,10 @@ git clone https://github.com/KaoPradthana/MusicPlayerSimple.git
 
 cd MusicPlayerSimple
 
-3. Install Dependencies
+2. Install Dependencies
    
 npm install
 
-5. Run the Application
+3. Run the Application
    
 npm start
