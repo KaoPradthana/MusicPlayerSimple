@@ -15,11 +15,15 @@ This project is inspired by and credits [CodingNepal's YouTube tutorial](https:/
   ## 🚀 Getting Started
   
 1. Clone the Repository
+   
 git clone https://github.com/KaoPradthana/MusicPlayerSimple.git
+
 cd MusicPlayerSimple
 
-2. Install Dependencies
+3. Install Dependencies
+   
 npm install
 
-3. Run the Application
+5. Run the Application
+   
 npm start
